@@ -1,3 +1,5 @@
+# *No alterar este archivo* 
+
 # *Flujo de trabajo*
 Estimados, con el proposito de ayudarnos mutuamente queriamos documentar como principalmente se debería trabajar de acuerdo a lo solicitado por la profesora Elizabeth, como tal los repositorios fueron separados para que cada uno tuviera sus propios testeos y correciones correspondientes.
 
